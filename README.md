@@ -24,3 +24,10 @@ Instrucciones de Uso
 4. Sigue las instrucciones en pantalla para realizar conversiones de moneda.
 
 
+Fotos de evidencia:
+<img width="529" height="431" alt="image" src="https://github.com/user-attachments/assets/e3093705-62a5-4f68-bfff-981e981c1a99" />
+
+
+
+
+
